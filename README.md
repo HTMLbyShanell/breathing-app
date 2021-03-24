@@ -1,0 +1,2 @@
+#breathing-app
+This simple little breathing app is a single page web application using HTML, CSS & JavaScript. The CSS & JavaScript breath animation effect allows a user to practice their breathing and relax. 
